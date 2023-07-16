@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(80,80,80);
+}
+
+.container {
+    margin: 20px auto;
+    padding: 20px;
+    background-color: lightblue;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.navbar {
+    olor: #fff;
+}
+
+.custom-navbar {
+    background-color: rgb(39, 85, 130);
+}
+
+.navbar-nav .nav-link {
+    color: #fff;
+}
+
+.navbar-container {
+    color: #333;
+}
+
+h1 {
+    color: #333;
+}
+
+p {
+    color: #666;
+}
+
+/* Custom styles for titles */
+h1,h2,h3,h4,h5,h6 {
+    color: #333;
+}
